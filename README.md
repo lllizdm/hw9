@@ -6,5 +6,5 @@
 # Использовала регулярное выражение: (Нов)([а-яѣ]*)(город)([а-яѣ]*). Всего упоминаний новгорода найдено: 59.
 ## https://github.com/lllizdm/hw9/blob/master/hw92.jpg
 # Использовала регулярное выражение: ([\.:;,])([\[А-Яа-яѣѢ]).
-## https://github.com/lllidm/hw9/blob/master/hw93.jpg
+## https://github.com/lllizdm/hw9/blob/master/hw93.jpg
 
